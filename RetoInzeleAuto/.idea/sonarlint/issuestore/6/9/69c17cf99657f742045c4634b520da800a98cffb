@@ -1,0 +1,29 @@
+
+y
+java:S1104"WMake BTN_sign_in a static final constant or non-public and provide accessors if needed.(£ïÈÛùÿÿÿÿ8›…×¬‡2
+~
+java:S1104"\Make BTN_registrar_in a static final constant or non-public and provide accessors if needed.(„Çı²øÿÿÿÿ8ÑÁĞÆ‡2
+r
+java:S1104"UMake MSG_ALERT a static final constant or non-public and provide accessors if needed.(æåÀ 8§¤°­‡2
+S
+java:S1444"1Make this "public static BTN_sign_in" field final(£ïÈÛùÿÿÿÿ8œ…×¬‡2
+X
+java:S1444"6Make this "public static BTN_registrar_in" field final(„Çı²øÿÿÿÿ8ÒÁĞÆ‡2
+L
+java:S1444"/Make this "public static MSG_ALERT" field final(æåÀ 8¨¤°­‡2
+x
+java:S3008"VRename this field "BTN_sign_in" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ïÈÛùÿÿÿÿ8Ÿ…×¬‡2
+}
+java:S3008"[Rename this field "BTN_registrar_in" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Çı²øÿÿÿÿ8×ÁĞÆ‡2
+q
+java:S3008"TRename this field "MSG_ALERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æåÀ 8«¤°­‡2
+[
+java:S3252	"9Use static access with "org.openqa.selenium.By" for "id".(Îÿæßüÿÿÿÿ8„à¬‡2
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(°¹ÆÍşÿÿÿÿ8µ…×¬‡2
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(í†ù¿ÿÿÿÿÿ8ñ¯­‡2
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(äíç8à÷­‡2
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(§²×Ã8Á®Ç‡2
